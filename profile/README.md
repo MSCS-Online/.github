@@ -7,6 +7,5 @@
   <a href="https://github.com/MSCS-Online?tab=followers"><img src="https://img.shields.io/github/followers/MSCS-Online?label=Followers&style=social" alt="GitHub Badge"></a>
 </div><br>
 
->Thank you for stopping by, we are just setting up please
->excuse us as we prepare more coding projects
+>Thank you for stopping by.
 >[Join discord!](https://discord.gg/Fcc85Y6dQ4)
